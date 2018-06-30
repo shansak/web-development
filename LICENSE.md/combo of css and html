@@ -1,0 +1,129 @@
+<html>
+<head>
+<style>
+body{
+background-image: url(../Downloads/ba.jpg);
+margin:0px;
+font-family: verdana,Georgia;
+font-size: 14px;
+
+}
+#header{
+background-color:pink;
+margin:10px;
+height:90px;
+border-radius:5px;
+}
+#navbar{
+
+background-color:pink;
+margin:10px;
+height:35px;
+border-radius:5px;
+
+}
+h1,h2,h3{
+color:black;
+font-size:20px;
+}
+p{
+font-size:15px;
+
+}
+
+
+
+.main{
+background-color:red;
+margin- left:10px;
+margin-right:320px;
+margin-top:10px;
+margin-bottom:5px;
+border-radius:5px;
+padding:20px;
+
+}
+.sidebar{
+
+background-color:red;
+margin:10px;
+
+border-radius:5px;
+float:right;
+}
+.image{
+width:400px;
+float:left;
+
+}
+.image:hover{
+opacity:0.5;
+}
+img{
+max-width:100%;
+max-height:100%;
+}
+
+
+
+
+
+
+
+
+</style>
+</head>
+<body>
+<div id="header">
+<img src="C:\Users\Hp\Downloads/selena.jpg">
+</div>
+<div id="navbar">
+<ul>
+<li><a href="Home"</a></li>
+</ul>
+</div>
+
+<div class="main">
+<h1> CREATING WEBSITE IS A FUNNIEST THINGS</h1>
+<p>core i5 7 generations computers are the best one's.But there are many people who will
+   definetly disagree from me</p>
+<h2>BUT PEOPLE'S SOMETIME FAILS IN IT</h2>
+<p>I like the way people punctuate their ignorance with certainity</p>
+</div>
+
+<div class="sidebar">
+<h3>TEACHERS NAME ARE AS FOLLOWS</h3>
+<ul>
+<li>shamim akhtar</li>
+<li>nitin pathak</li>
+<li>mukta mani</li>
+<li>mahendra gurve</li>
+</div>
+
+
+<div class="main">
+<h1> CREATING WEBSITE IS A FUNNIEST THINGS</h1>
+<p>core i5 7 generations computers are the best one's.But there are many people who will
+   definetly disagree from me</p>
+<h2>BUT PEOPLE'S SOMETIME FAILS IN IT</h2>
+<p>I like the way people punctuate their ignorance with certainity</p>
+</div>
+<div>
+<img class="image" src="C:\Users\Hp\Downloads/selena.jpg">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
